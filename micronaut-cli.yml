@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: de.bernard
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, assertj, data, data-mongodb-reactive, gradle, http-client, jackson-databind, jax-rs, junit, kotlin, kotlin-application, kotlin-build, logback, micronaut-aot, micronaut-build, nats, netty-server, readme, shade, test-resources, yaml]
